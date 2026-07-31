@@ -1,7 +1,7 @@
 
 <!-- Logo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abusaeeidx/KADER-BDIX-IPTV/refs/heads/main/image/Picsart_25-11-23_23-36-41-742.png" alt="KADER-TV" width="80%">
+KADER-BDIX-IPTV/refs/heads/main/image/Picsart_25-11-23_23-36-41-742.png" alt="KADER-TV" width="80%">
 
 
 <h2 align="center">
@@ -12,8 +12,6 @@
   <br>
 </h2>
 <h4 align="center">Auto-updating BDIX IPTV Playlist System (Every 10 Minutes)</h4>
-<p align="center">
-  <a href="https://github.com/abusaeeidx/Mrgify-BDIX-IPTV">
     src="https://img.shields.io/badge/Made%20in-Bangladesh_🇧🇩-green?style=for-the-badge">
 </p>
 
